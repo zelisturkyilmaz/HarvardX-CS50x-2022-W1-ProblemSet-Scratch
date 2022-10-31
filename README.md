@@ -1,6 +1,9 @@
 # CS50's Introduction to Computer Science
 ## HarvardX - CS50x
-### Week 1 Assignment:
+### Week 1 Problem Set - Scratch
+
+
+#### Assignment and Requirements:
 
 Implement in Scratch, at [scratch.mit.edu](https://www.scratch.mit.edu), any project of choice, interactive story, game, animation, or anything else
 
