@@ -1,6 +1,7 @@
 # CS50's Introduction to Computer Science
 ## HarvardX - CS50x
 ### Week 1 Problem Set - Scratch
+<hr>
 
 
 #### Assignment and Requirements:
